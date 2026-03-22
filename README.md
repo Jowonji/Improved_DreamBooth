@@ -152,24 +152,6 @@ python inference.py \
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{jo2023improved,
-  title     = {Improved DreamBooth: Enhanced Fine-Tuning through SNR Adjustment and Optimization of Noise Scheduler},
-  author    = {Jo, Won-ji and Park, Sung-Wook and Jung, Se-hoon and Sim, Chun-bo},
-  journal   = {Journal of Digital Art Engineering \& Multimedia},
-  volume    = {10},
-  number    = {4},
-  pages     = {567--576},
-  year      = {2023},
-  doi       = {10.29056/jdaem.2023.12.12}
-}
-```
-
----
 
 ## References
 
